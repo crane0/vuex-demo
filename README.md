@@ -1,5 +1,9 @@
 # vuex-demo
 
+## 1，min-vuex
+
+模拟vuex的 state 和 mutation 实现。
+
 ## Project setup
 ```
 npm install
